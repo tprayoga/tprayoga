@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tprayoga&show_icons=true&locale=en" alt="tprayoga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tprayoga&" alt="tprayoga" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tprayoga" alt="tprayoga" /></p>
